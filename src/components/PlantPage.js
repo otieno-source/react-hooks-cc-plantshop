@@ -14,7 +14,7 @@ function PlantPage() {
 
   const fetchPlants = async () => {
     try {
-      const response = await fetch("https://react-hooks-cc-plantshop-qnnt.onrender.com/plants");
+      const response = await fetch("https://react-hooks-cc-plantshop-1-uwh8.onrender.com/plants");
       const data = await response.json();
       setPlants(data);
       setLoading(false);
@@ -25,7 +25,7 @@ function PlantPage() {
 
   const addPlant = async (newPlant) => {
     try {
-      const response = await fetch("https://react-hooks-cc-plantshop-qnnt.onrender.com/plants", {
+      const response = await fetch("https://react-hooks-cc-plantshop-1-uwh8.onrender.com/plants", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
