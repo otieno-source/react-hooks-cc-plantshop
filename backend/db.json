@@ -1,1 +1,52 @@
-{}
+{
+    "plants": [
+      {
+        "id": "1",
+        "name": "Aloe",
+        "image": "./images/aloe.jpg",
+        "price": 15.99
+      },
+      {
+        "id": "2",
+        "name": "ZZ Plant",
+        "image": "./images/zz-plant.jpg",
+        "price": 25.98
+      },
+      {
+        "id": "3",
+        "name": "Pilea peperomioides",
+        "image": "./images/pilea.jpg",
+        "price": 5.99
+      },
+      {
+        "id": "4",
+        "name": "Pothos",
+        "image": "./images/pothos.jpg",
+        "price": 12.11
+      },
+      {
+        "id": "5",
+        "name": "Jade",
+        "image": "./images/jade.jpg",
+        "price": 10.37
+      },
+      {
+        "id": "6",
+        "name": "Monstera Deliciosa",
+        "image": "./images/monstera.jpg",
+        "price": 25.99
+      },
+      {
+        "id": "7",
+        "name": "Fiddle Leaf Fig",
+        "image": "./images/fiddle-leaf-fig.jpg",
+        "price": 55
+      },
+      {
+        "id": "74dc",
+        "name": "nyama choma",
+        "image": "https://media.istockphoto.com/id/1253892852/photo/two-fresh-juicy-new-york-steaks-on-a-grill-pan-with-sprinkled-spices-dried-tomatoes-and.jpg?s=1024x1024&w=is&k=20&c=DAzTy-xXdg_81odnDcVjBrwoGUkTjNIy6zSnLR0l5Us=",
+        "price": 1000
+      }
+    ]
+  }
